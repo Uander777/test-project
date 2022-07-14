@@ -1,2 +1,2 @@
 # test-project
-my experiments and learning
+Im just learning how to use python. Im amateur and want to learn more. TY for attention
